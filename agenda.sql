@@ -22,8 +22,8 @@ INSERT INTO `tabla_agenda` (`id`, `nombres`, `apellidos`, `profesion`, `estado`,
 (2, 'Julissa', 'Lopez', 'Administrador', 'Argentina', '2023-08-18'),
 (3, 'Rafael', 'Lira', 'Sistemas', 'Ecuador', '2023-08-18'),
 (4, 'Alan', 'Dominguez', 'Analista', 'Chile', '2023-08-18'),
-(5, 'Angel', 'Porta', 'Economista', 'Colombia', '2023-08-18');
-(6, 'Brian', 'Alpuche', 'Economista', 'Colombia', '2023-08-18');
+(5, 'Angel', 'Porta', 'Economista', 'Colombia', '2023-08-18'),
+(6, 'Brian', 'Alpuche', 'Economista', 'Colombia', '2023-08-18'),
 (7, 'Ernesto', 'Tamay', 'Programador', 'Mexico', '2023-08-18');
 
 -- Indices de la tabla `tabla_agenda`
