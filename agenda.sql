@@ -12,7 +12,7 @@ CREATE TABLE `tabla_agenda` (
   `apellidos` varchar(200) DEFAULT NULL,
   `profesion` varchar(150) DEFAULT NULL,
   `estado` varchar(100) DEFAULT NULL,
-  `fregis` date DEFAULT NULL
+  `fecha` date DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 -- Creacion de registros para la tabla `tabla_agenda`
